@@ -1,0 +1,26 @@
+[ {
+    "id":1,
+    "title": "Friends",
+    "createdBy": "Francesca Delbanco Nicholas Stoller",
+    "ano": 1990,
+    "seassons": 10,
+    "genre": "comedy"
+  },
+  {
+    "id":2,
+    "title": "3%",
+    "createdBy": " Pedro Aguilera",
+    "ano": 2016,
+    "seassons": 4,
+    "genre": "drama"
+  },
+  {
+    "id":3,
+    "title": "Jane, the Virgin",
+    "createdBy": "Jennie Snyder Urman",
+    "ano": 2014,
+    "seassons": 5,
+    "genre": "comedy"
+  }
+  
+]

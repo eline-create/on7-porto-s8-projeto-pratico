@@ -1,0 +1,14 @@
+[ {
+    "id":1,
+    "genre": "comedy"
+  },
+  {
+    "id":2,
+    "genre": "drama"
+  },
+  {
+    "id":3,
+    "genre": "comedy"
+  }
+  
+]
